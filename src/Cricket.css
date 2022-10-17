@@ -1,0 +1,36 @@
+input{
+    width: 250px;
+    height: 2rem;
+    border-radius: 5px;
+    border: 1px solid tan;
+}
+
+.button-style{
+    padding: 10px 25px;
+    border-radius: 5px;
+    border: 1px solid tan;
+    background-color: green;
+    color: white;
+}
+
+.reset-button-style{
+    padding: 10px 25px;
+    border-radius: 5px;
+    border: 1px solid tan;
+    background-color: lightgoldenrodyellow;
+    color: green;
+}
+
+.text-style{
+    display: inline;
+}
+
+.margin{
+    margin-top: 100px;
+}
+
+li{
+    margin-top: 10px;
+    list-style-type: none;
+    text-align: center;
+}
